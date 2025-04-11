@@ -5,20 +5,18 @@
   Sempre buscando aprender mais e evoluir um pouquinho a cada dia! 🚀
 </p>
 
----
 
 ### Tecnologias que estou usando atualmente:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+
 
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguioli&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoguioli&show_icons=true&theme=tokyonight)
 
----
 
 ### Contato:
 
@@ -28,6 +26,5 @@
 
 Em breve: Portfólio 
 
----
 
 > “Você não precisa ser grande para começar, mas precisa começar para ser grande.” – Zig Ziglar
